@@ -1226,7 +1226,8 @@ in Close-Up</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(31).pdf" style="text-decoration:none;">Exoplanets: Diamond Worlds, Super Earths, Pulsar Planets, and the New Search for Life Beyond Our Solar System</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(32).pdf" style="text-decoration:none;">Forensic Epidemiology: Principles and Practice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(32).pdf" style="text-decoration:none;">Weird Astronomical
+Theories of the Solar System and Beyond</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(33).pdf" style="text-decoration:none;">Distant Wanderers: The Search for Planets Beyond the Solar System</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(34).pdf" style="text-decoration:none;">Moons of the Solar
@@ -1239,7 +1240,7 @@ System: From Giant Ganymede to Dainty Dactyl</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(37).pdf" style="text-decoration:none;">New Views of the
 Solar System</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(38).pdf" style="text-decoration:none;">Discovering Pluto: Exploration at the Edge of the Solar System</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(39).pdf" style="text-decoration:none;">Statistics for Epidemiology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(39).pdf" style="text-decoration:none;">How to read the solar system: a guide to the stars and planets</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(40).pdf" style="text-decoration:none;">Secrets in the Solar System</a></li>
