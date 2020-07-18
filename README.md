@@ -1250,49 +1250,59 @@ Solar System</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(42).pdf" style="text-decoration:none;">The Origin and Evolution of the Solar System</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(43).pdf" style="text-decoration:none;"> Exploring the Ocean Worlds of Our Solar System</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(44).pdf" style="text-decoration:none;">Assessment of vegetable, fruit, and antioxidant vitamin intake in cancer epidemiology</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(45).pdf" style="text-decoration:none;">Hypertension: A Companion to Braunwald's Heart Disease</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(44).pdf" style="text-decoration:none;">The Outer Solar System: Jupiter, Saturn, Uranus, Neptune, and the Dwarf Planets</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(45).pdf" style="text-decoration:none;">Myths, Symbols and Legends of Solar System Bodies</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(46).pdf" style="text-decoration:none;">A History of Epidemiologic Methods and Concepts</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(46).pdf" style="text-decoration:none;">Exploring the Solar System: The History and Science of Planetary Exploration</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(47).pdf" style="text-decoration:none;">New Frontiers of Molecular Epidemiology
-of Infectious Diseases</a></li>
-
-
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(48).pdf" style="text-decoration:none;">Tobacco Smoking Addiction: Epidemiology, Genetics, Mechanisms, and Treatment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(47).pdf" style="text-decoration:none;">Deep Space Probes: To the Outer Solar System and Beyond</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(49).pdf" style="text-decoration:none;">Strain Variation in the
-Mycobacterium tuberculosis Complex: Its Role in Biology, Epidemiology and Control</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(48).pdf" style="text-decoration:none;">Solar System: Moons
+Discovery and Mythology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(50).pdf" style="text-decoration:none;">CAUSALITY: Models, Reasoning, and Inference</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(51).pdf" style="text-decoration:none;">Basic Statistics and Epidemiology: A practical guide</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(52).pdf" style="text-decoration:none;">Brain Metastases from Primary Tumors, Volume 3: Epidemiology, Biology, and Therapy of Melanoma and Other Cancers</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(53).pdf" style="text-decoration:none;">The Epidemiology of Plant Diseases</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(49).pdf" style="text-decoration:none;">Dark Matter and the Dinosaurs: The Astounding Interconnectedness of the Universe</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(50).pdf" style="text-decoration:none;">Formation of the Solar System: A New Theory of the Creation and Decay of the Celestial Bodies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(51).pdf" style="text-decoration:none;">Five Billion Years of Solitude: The Search for Life Among the Stars</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(52).pdf" style="text-decoration:none;">Catching Stardust: Comets, Asteroids and the Birth of the Solar System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(53).pdf" style="text-decoration:none;">The Sun, Mercury,
+and Venus</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(54).pdf" style="text-decoration:none;">High-Yield Biostatistics, Epidemiology, and Public Health</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(54).pdf" style="text-decoration:none;">Exobiology in the Solar System and The Search for Life on Mars</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(55).pdf" style="text-decoration:none;">Bayesian Methods in Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(55).pdf" style="text-decoration:none;">What Color Is the Sun?: Mind-Bending Science Facts in the Solar System's Brightest Quiz</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(56).pdf" style="text-decoration:none;">An Introduction to
-Mathematical Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(56).pdf" style="text-decoration:none;">Atom: An Odyssey from the Big Bang to Life on Earth...and Beyond</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(57).pdf" style="text-decoration:none;">Epidemiology Matters</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(58).pdf" style="text-decoration:none;">Applications of Regression Models in Epidemiology</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(59).pdf" style="text-decoration:none;">Epigenetic Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(57).pdf" style="text-decoration:none;">924 Elementary Problems and Answers in Solar System Astronomy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(58).pdf" style="text-decoration:none;">Fundamental Astronomy</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(59).pdf" style="text-decoration:none;">Plasma Sources of Solar System Magnetospheres</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(60).pdf" style="text-decoration:none;">Human Herpesvirus-6: General Virology, Epidemiology and Clinical Pathology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(60).pdf" style="text-decoration:none;">Solar System
+Astrophysics: Background Science and the Inner Solar System</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(61).pdf" style="text-decoration:none;">Plant Virus and Viroid Diseases in the Tropics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(62).pdf" style="text-decoration:none;">The Epidemiology of Diabetes Mellitus</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(61).pdf" style="text-decoration:none;">Planetary Rovers
+Robotic Exploration of the Solar System</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(62).pdf" style="text-decoration:none;">Universal: A Guide to the Cosmos</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(63).pdf" style="text-decoration:none;">Outer Solar System
+Prospective Energy and Material Resources</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-Solar-System-exploration/blob/master/solar(64).pdf" style="text-decoration:none;">Solar System Plasmas in Space and Time</a></li> 
+
+
+
+
+
 
 </ul>
 
