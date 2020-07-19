@@ -174,7 +174,7 @@
 <tr style="height: 15px;">
 <td style="height: 15px;"><a title="Lincoln Calibration Sphere 1" href="https://en.wikipedia.org/wiki/Lincoln_Calibration_Sphere_1">Lincoln Calibration Sphere 1</a></td>
 <td style="height: 15px;">6 May 1965</td>
-<td style="height: 15px;"><strong>Oldest spacecraft still in use</strong><sup class="noprint Inline-Template Template-Fact">[<em><a title="Wikipedia:Citation needed" href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"><span title="This claim needs references to reliable sources. (April 2019)">citation needed</span></a></em>]</sup></td>
+<td style="height: 15px;"><strong>Oldest spacecraft still in use</strong></td>
 </tr>
 <tr style="height: 13px;">
 <td style="height: 13px;"><a title="Luna 5" href="https://en.wikipedia.org/wiki/Luna_5">Luna 5</a></td>
